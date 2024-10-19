@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlexisRodriguezCS/BiometricAuthenticationSystem/main/images/biometric.jpg" alt="Grid" style="display:block;margin:auto;" height="500">
-</p>
+
 <h1 align="center">Biometric Authentication System</h1>
 
 <!-- TABLE OF CONTENTS -->
@@ -11,7 +9,6 @@
   <a href="#project-structure">Project Structure</a> •
   <a href="#getting-started">Getting Started</a> •
   <a href="#usage">Usage</a> •
-  <a href="#contact">Contact</a> •
   <a href="#credit">Credit</a>
 </p>
 
@@ -212,20 +209,8 @@ $ * Running on http://127.0.0.1:5000/
 
 <a name="contact"></a>
 
-## Contact
 
-Alexis Rodriguez - [LinkedIn](https://www.linkedin.com/in/alexisrodriguezcs/) - alexisrodriguezdev@gmail.com
-
-Project Link: [https://github.com/AlexisRodriguezCS/BiometricAuthenticationSystem.git](https://github.com/AlexisRodriguezCS/BiometricAuthenticationSystem.git)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<a name="credit"></a>
 
 ## Credits
 
 [face-api.js](https://github.com/justadudewhohacks/face-api.js) - The face recognition library used in this project.
-
-[Material Design for Bootstrap 5](https://mdbootstrap.com/) - Framework for building responsive and visually appealing user interfaces.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
